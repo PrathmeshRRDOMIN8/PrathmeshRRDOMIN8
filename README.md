@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathmeshRRDOMIN8
 - 👀 I’m interested in App development 
-- 🌱 I’m currently learning JAVA & Android develeopment
+- 🌱 I’m currently learning Flutter for Android,Ios develeopment
 - 💞️ I’m looking to collaborate on any app buidling and android dev stuff.
 - 📫 How to reach me : mail - prathamsinha3@gmail.com 
 
