@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathmeshRRDOMIN8
 - 👀 I'm a student at MIT, Manipal.
-    Computer & Communications B.Tech 2024
+    Computer & Communications B.Tech 2024.
     I’m into App development.
  🌱 I’m currently learning Flutter for Cross-Platform Development.
     Working under Dronaid Student Project as an App dev team member.
