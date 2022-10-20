@@ -3,9 +3,8 @@
     Computer & Communications B.Tech 2024.
     I’m into App development.
  🌱 I’m currently learning Flutter for Cross-Platform Development.
-    Working under Dronaid Student Project as an App dev team member.
-    if you are hiring to find me please feel free to contact me.
-- 📫 How to reach me : mail - prathamsinha3@gmail.com 
+    Working under Dronaid Student Project as an App dev head.
+    Runnig a team of developers : https://github.com/Team-Domin8
 
 <!---
 PrathmeshRRDOMIN8/PrathmeshRRDOMIN8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
