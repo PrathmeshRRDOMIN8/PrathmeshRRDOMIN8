@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Prathmesh, a fresh and passionate software developer with a strong foundation in programming concepts and a desire to learn and grow in the industry.
+👋 Hi, I'm Prathmesh, a fresh and passionate software developer with a strong foundation in programming concepts and a desire to learn and grow in the industry.
 I will be graduating in Computer Science, where I gained experience in various programming languages such as Java, Python, and C++, as well as web development frameworks like React and Angular. I have completed several projects during my studies, where I applied my skills to develop innovative solutions to real-world problems.
 I am a reliable team player with excellent communication skills and a focus on delivering high-quality work. I have a keen eye for detail and am committed to ensuring that every project I work on meets the highest standards.
 As a lifelong learner, I am always seeking new opportunities to enhance my skills and stay up-to-date with the latest technologies and industry trends. I am excited to begin my career as a software developer and am committed to making a positive impact through my dedication and hard work.
